@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ece1a8c4-63bf-4a57-9869-2db35031f1b3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/angular-project/ang-course-project/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular-project/ang-course-project/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-project/ang-course-project/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-project/ang-course-project/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-project/ang-course-project/src/app/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular-project/ang-course-project/src/app/header/header.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-project/ang-course-project/src/app/header/header.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-project/ang-course-project/src/app/header/header.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-project/ang-course-project/src/app/recipes/recipe-detail/recipe-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular-project/ang-course-project/src/app/recipes/recipe-detail/recipe-detail.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-project/ang-course-project/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular-project/ang-course-project/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-project/ang-course-project/src/app/recipes/recipe-list/recipe-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular-project/ang-course-project/src/app/recipes/recipe-list/recipe-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-project/my-first-app/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular-project/my-first-app/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-project/my-first-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular-project/my-first-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-project/my-first-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular-project/my-first-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-project/my-first-app/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/angular-project/my-first-app/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-project/my-first-app/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular-project/my-first-app/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-project/my-first-app/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-project/my-first-app/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-project/my-first-app/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-project/my-first-app/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-project/my-first-app/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular-project/my-first-app/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/complete-javascript-course/02-Fundamentals-Part-2/starter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/complete-javascript-course/02-Fundamentals-Part-2/starter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/complete-javascript-course/02-Fundamentals-Part-2/starter/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/complete-javascript-course/02-Fundamentals-Part-2/starter/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-projects/html-css-course/starter/02-HTML-Fundamentals/challenges.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-projects/html-css-course/starter/02-HTML-Fundamentals/laura-jones.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-projects/html-css-course/starter/02-HTML-Fundamentals/post-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-projects/html-css-course/starter/02-HTML-Fundamentals/related-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-projects/html-css-course/starter/02-HTML-Fundamentals/related-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-projects/html-css-course/starter/02-HTML-Fundamentals/related-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-projects/html-css-course/starter/03-CSS-Fundamentals/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web-projects/html-css-course/starter/03-CSS-Fundamentals/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-projects/html-css-course/starter/04-CSS-Layouts/css-grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/web-projects/html-css-course/starter/04-CSS-Layouts/css-grid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-projects/html-css-course/starter/04-CSS-Layouts/flexbox.html" beforeDir="false" afterPath="$PROJECT_DIR$/web-projects/html-css-course/starter/04-CSS-Layouts/flexbox.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-projects/html-css-course/starter/04-CSS-Layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web-projects/html-css-course/starter/04-CSS-Layouts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-projects/html-css-course/starter/04-CSS-Layouts/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/web-projects/html-css-course/starter/04-CSS-Layouts/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1xvrqSfpqhgDNYVQkEcHRfYvSPr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ece1a8c4-63bf-4a57-9869-2db35031f1b3" name="Default Changelist" comment="" />
+      <created>1631246594019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631246594019</updated>
+      <workItem from="1631246595157" duration="8000" />
+    </task>
+    <servers />
+  </component>
+</project>
