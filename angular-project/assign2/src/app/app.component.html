@@ -1,0 +1,11 @@
+<input type="text" [(ngModel)]="username">
+<p>{{ username }}</p>
+<button [disabled]="username === ''" (click)="username = ''">Clear Username</button>
+<hr>
+<button (click)="logClick()">Display Details</button>
+<p *ngIf="showParagraph">Secret Password = tuna</p>
+<div *ngFor="let log of buttonClicks; let i = index"
+    [ngStyle]="{'background-color': i > 3 ? 'blue' : 'white'}"
+    [ngClass]="{'whiteText': i > 3}">
+  {{ log }}
+</div>
