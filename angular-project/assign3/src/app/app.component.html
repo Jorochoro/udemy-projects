@@ -1,0 +1,9 @@
+<app-game-control (start)="updateNumbers($event)"></app-game-control>
+<div *ngFor="let num of nums">
+  <app-odd *ngIf="num % 2 === 1">
+    Odd - num
+  </app-odd>
+  <app-even *ngIf="num % 2 === 0">
+    Even - num
+  </app-even>
+</div>
